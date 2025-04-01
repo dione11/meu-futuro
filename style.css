@@ -1,4 +1,7 @@
 .cabeçalho{
     background-color: #b07fff;
-    color: rgb(211, 0, 11);
+    color: rgb(211, 0, 11); 
+    text-align: center;
+    padding: 15px;
+    
 }
