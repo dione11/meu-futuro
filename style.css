@@ -3,7 +3,7 @@
     color: rgb(211, 0, 11); 
     text-align: center;
     padding: 15px;
-    
+    border-radius: 10px;
 }
 .body{
     font-family: Georgia, 'Times New Roman', Times, serif;
