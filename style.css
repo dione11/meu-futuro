@@ -11,7 +11,7 @@
 padding: 0; background-color: wheat;
 }
 .img{ 
-    max-width: 100%;
+    max-width: 50%;
     height:auto ;
     border-radius: 10px;
 }
