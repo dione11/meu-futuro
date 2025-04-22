@@ -11,9 +11,9 @@
 padding: 0; background-color: wheat;
 }
 .img{ 
-    max-width: 45%;
+    max-width: 20%;
     height:auto ;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .sonhos{background-color: thistle;
